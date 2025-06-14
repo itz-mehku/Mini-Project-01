@@ -85,7 +85,7 @@ Mini Project 01: Python Assignment
 (iii) All prime numbers
 
 ### **Q.7 D is a dictionary defined as D = {1:"one",2:"two",3:"three"",4:"four",5":five"}.**
-### WAP to read all the keys and values from dictionary and write to the file in given below format:
+### --> WAP to read all the keys and values from dictionary and write to the file in given below format:
 key1,value1
 
 key2,value2
@@ -93,7 +93,7 @@ key2,value2
 key3,value3
 
 ### **Q.8 L is a list defined as L = ["one","two","three","four","five"].**
-### WAP to count the length of each element from a list and write to the file in given below format:
+### --> WAP to count the length of each element from a list and write to the file in given below format:
 one,3
 
 two,3
