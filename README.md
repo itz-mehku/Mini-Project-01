@@ -108,6 +108,7 @@ four,4
 
 ### **Q.12 WAP to sort following number of elements in a list,calculate time taken and plot the graph:**
 
-![image](https://github.com/user-attachments/assets/e7947e33-ddd6-43da-b148-df5197ba0600)
+![image](https://github.com/user-attachments/assets/22d7f9ed-3dca-4f5c-a072-483f7c3b0792)
+
 
 ### **Q.13 WAP to create a dictionary of student marks in five subjects and you have to find the student having maximum and minimum marks.**
